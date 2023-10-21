@@ -7,10 +7,10 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-    System.out.println("Qual seu nome?");
+    System.out.println("Qual seu nome seu otario?");
     String nome = sc.nextLine();
     
-    System.out.println("Qual sua idade?");
+    System.out.println("Qual sua idade otario?");
 	int idade = sc.nextInt();
 	
 	System.out.println("Qual sua altura?");
